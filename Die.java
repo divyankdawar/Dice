@@ -1,3 +1,4 @@
+//Rolling Die Program
 import java.util.Random;
 public class Die {
 
